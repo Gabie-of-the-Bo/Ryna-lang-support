@@ -7,7 +7,7 @@
     "repository": {
         "url": "https://github.com/Gabie-of-the-Bo/Ryna-lang-support"
     },
-    "version": "0.1.7",
+    "version": "0.1.8",
     "engines": {
         "vscode": "^1.62.0"
     },

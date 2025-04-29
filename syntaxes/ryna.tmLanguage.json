@@ -79,7 +79,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.ryna",
-				"match": "\\b(class|syntax|let|fn|in|op|unary|binary|nary|prefix|postfix|from|to|if|else|while|for|return|do|break|continue|block|expr)\\b"
+				"match": "\\b(class|syntax|int|let|fn|in|op|unary|binary|nary|prefix|postfix|from|to|if|else|while|for|return|do|break|continue|block|expr)\\b"
 			}]
 		},
 
